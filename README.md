@@ -1,0 +1,1 @@
+# tiendagestor-license
